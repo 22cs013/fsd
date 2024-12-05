@@ -1,5 +1,8 @@
 // npm install express
-
+//mkdir express-router-app
+//cd express-router-app
+//npm init -y
+//npm install express
 const express = require('express');
 const app = express();
 const port = 3000;
